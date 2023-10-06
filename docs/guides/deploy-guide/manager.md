@@ -127,7 +127,7 @@ To prevent recurring installation of Ansible Collections, `export INSTALL_ANSIBL
 3. Deploy the Netbox service. This is optional and only necessary if the Netbox service is to be used.
 
    ```
-   ./run.sh netox
+   ./run.sh netbox
    ```
 
 4. Deploy the manager service.
