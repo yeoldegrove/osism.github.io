@@ -18,5 +18,5 @@ When setting up a new cluster, the services are deployed in a specific order.
 1. [Infrastructure](./infrastructure)
 2. [Network](./network)
 3. [Logging & Monitoring](./logging-monitoring)
-4. [Ceph](./ceph)
+4. [Ceph](./ceph) or [Ceph via Rook (technical preview)](./rook)
 5. [OpenStack](./openstack)
